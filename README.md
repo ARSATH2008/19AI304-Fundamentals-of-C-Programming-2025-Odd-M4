@@ -4,7 +4,7 @@
 ## 8. Implementation of passing parameters.
 # Ex.No:16
   Implement a C program to read a date in the format DD/MM/YYYY and determine whether the entered date is valid. The program should check the correctness of the day, month, and year, including leap year calculations for February.
-# Date : 
+# Date :11.01.2026 
 # Aim:
  To implement a C program that validates a user-entered date using a function without parameters and without return value, ensuring the correctness of day, month, year, and leap year conditions.
 # Algorithm:
@@ -41,7 +41,16 @@
 ### Step 14: 
   Stop
 # Program:
+<img width="659" height="626" alt="image" src="https://github.com/user-attachments/assets/8244ea47-5406-422e-9c7c-c47e7360e5af" />
+
+
+<img width="656" height="270" alt="image" src="https://github.com/user-attachments/assets/bc86bb94-1364-4538-8e84-69207abbfe1c" />
+
+
 # Output:
+<img width="509" height="223" alt="image" src="https://github.com/user-attachments/assets/01da3ef6-599b-4b5d-99a8-f39b7ec9d2f9" />
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -50,7 +59,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-4- Module 4 - FoC
 # Ex.No:17
   Develop a C program to read two numbers from the user and determine the maximum and minimum values. Use user-defined functions with arguments and return values—one function to find the maximum (max()) and another to find the minimum (min()).
-# Date : 
+# Date : 11.01.2026
 # Aim:
  To develop a C program that uses functions with parameters and return values to compute and display the maximum and minimum of two user-entered numbers.
 # Algorithm:
@@ -89,7 +98,13 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 13: 
   Stop
 # Program:
+
+<img width="633" height="629" alt="image" src="https://github.com/user-attachments/assets/f7d46b5c-97ba-4bc9-bd0a-afb320a1a765" />
+
 # Output:
+
+<img width="432" height="298" alt="image" src="https://github.com/user-attachments/assets/6c52ac59-9871-4f4d-99cb-344769cc5ee1" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -98,7 +113,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-4- Module 4 - FoC
 # Ex.No:18
   Develop a C program to convert temperatures between Celsius and Fahrenheit: Convert Celsius to Fahrenheit using a function that returns the converted value. Convert Fahrenheit to Celsius using another function that returns the converted value. Display the results in the main() function.
-# Date : 
+# Date : 11.01.2026
 # Aim:
  To develop a C program that converts temperatures between Celsius and Fahrenheit using functions with return values.
 # Algorithm:
@@ -137,7 +152,13 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 11: 
  Stop
 # Program:
+
+<img width="639" height="634" alt="image" src="https://github.com/user-attachments/assets/9e1c27f4-a187-4034-9d54-6eba77c0b637" />
+
 # Output:
+
+<img width="633" height="125" alt="image" src="https://github.com/user-attachments/assets/15cffbae-c16b-438f-b656-9b632586b37b" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -146,7 +167,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-4- Module 4 - FoC
 # Ex.No:19
   Build a C program to print the elements of a given 4×4 matrix in spiral order starting from the top-left element and moving clockwise,using a user-defined parameterized function without return spiralPrint().
-# Date : 
+# Date : 11.01.2026
 # Aim:
  To build a C program to display the elements of a 2D array in spiral form, traversing the outer elements first and then moving inward in a clockwise direction, using a user-defined parameterized function without return spiralPrint().
 # Algorithm:
@@ -185,7 +206,15 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 7: 
   Stop
 # Program:
+
+<img width="648" height="594" alt="image" src="https://github.com/user-attachments/assets/5c00f6db-9e8c-4957-be88-3ac73bc5522b" />
+
+<img width="695" height="568" alt="image" src="https://github.com/user-attachments/assets/594eda19-0c41-4e0f-b0b8-0d2ab3a3dc73" />
+
 # Output:
+
+<img width="428" height="312" alt="image" src="https://github.com/user-attachments/assets/008301ca-dfc8-49bb-8a62-d94436812453" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -194,7 +223,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-4- Module 4 - FoC
 # Ex.No:20
   Build a C program to convert a string such that the first and last characters, as well as the characters before and after each space, are converted to uppercase. Implement this using a user-defined parameterized function without return.
-# Date : 
+# Date : 11.01.2026
 # Aim:
 To build a C program to convert a string as described above, using a user-defined parameterized function without return convertFirstCLastC(char str[]).
 # Algorithm:
@@ -220,7 +249,13 @@ To build a C program to convert a string as described above, using a user-define
 ### Step 6: 
  Stop
 # Program:
+
+<img width="658" height="707" alt="image" src="https://github.com/user-attachments/assets/f3eb97f6-b93b-41e4-a712-921188fd236a" />
+
 # Output:
+
+<img width="437" height="315" alt="image" src="https://github.com/user-attachments/assets/84d5b7cd-d8de-4d3b-8f26-4fd5f88a97ad" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
